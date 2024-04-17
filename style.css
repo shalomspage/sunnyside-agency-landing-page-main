@@ -97,7 +97,7 @@ a {
 
 /* Hero Section*/
 .hero-section{
-    background: URL(./images/desktop/image-header.jpg) no-repeat;
+    background: URL(../images/desktop/image-header.jpg) no-repeat;
     height: clamp(35rem, 100vh, 40rem);
     background-size: 100% 100%;
     display: flex;
